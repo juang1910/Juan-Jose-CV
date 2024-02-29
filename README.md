@@ -4,7 +4,7 @@ Juan Jose's CV
 # Hi! I'm Juan And welcome to my CV
 ![Banner](./images/Banner.png)
 
-<img src="./images/image.png" alt="Mi Imagen" width="50" height="50"/>
+<img src="./images/image.png" alt="Mi Imagen" width="10" height="10"/> www.linkedin.com/in/jjgarciaguirre
 
 
 
