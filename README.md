@@ -4,6 +4,7 @@ Juan Jose's CV
 # Hi! I'm Juan And welcome to my CV
 ![Banner](./images/Banner.png)
 
+[![Logo de LinkedIn](https://www.flaticon.es/icono-gratis/linkedin_174857)](www.linkedin.com/in/jjgarciaguirre)
 
 
 ## Profile
