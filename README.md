@@ -25,5 +25,5 @@ I am a mechanical engineer, passionate about 3D design, programming, IA and emer
 - Portuguese (A2)
 
 ## Personal information
-![Mi Imagen](./images/telefono.png)
+![Mi Imagen](./images/telefono.png) +57 319 5327739
 
