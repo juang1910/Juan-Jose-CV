@@ -26,4 +26,4 @@ I am a mechanical engineer, passionate about 3D design, programming, IA and emer
 
 ## Personal information
 
-- <i class="fas fa-star"></i> Elemento 2
+- ![Heart](https://img.shields.io/badge/Heart-%E2%9D%A4-red)
