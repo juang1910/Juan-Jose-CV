@@ -25,4 +25,5 @@ I am a mechanical engineer, passionate about 3D design, programming, IA and emer
 - Portuguese (A2)
 
 ## Personal information
-!(https://img.shields.io/badge/Heart-%E2%9D%A4-red)
+![Mi Imagen](./images/Telefono.png)
+
