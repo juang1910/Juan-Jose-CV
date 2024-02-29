@@ -7,7 +7,7 @@ Juan Jose's CV
 [![Logo de LinkedIn](https://www.flaticon.es/icono-gratis/linkedin_174857)](www.linkedin.com/in/jjgarciaguirre)
 
 
-## Profile
+## Profile   🙎🏻
 I am a mechanical engineer, passionate about 3D design, programming, IA and emerging technologies, I have a good command of CAD tools such as SolidWorks, Inventor, Fusion 360 and Autocad. Also I have knowledge in programming languages such as Java, Python and Matlab. I am interested in  2D and 3D modeling, testing, QA Automation and software development.
 
 ## Education 
