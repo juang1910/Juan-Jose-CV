@@ -26,4 +26,4 @@ I am a mechanical engineer, passionate about 3D design, programming, IA and emer
 
 ## Personal information
 
-- <i class="fas fa-check"></i> Elemento 1
+- <i class="fas fa-star"></i> Elemento 2
