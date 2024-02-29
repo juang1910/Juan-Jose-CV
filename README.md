@@ -4,6 +4,7 @@ Juan Jose's CV
 # Hi! I'm Juan And welcome to my CV
 ![Banner](./images/Banner.png)
 
+![Linkedin](./images/image.png)
 
 
 ## Profile   🙎🏻
