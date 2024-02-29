@@ -4,7 +4,7 @@ Juan Jose's CV
 # Hi! I'm Juan And welcome to my CV
 ![Banner](./images/Banner.png)
 
-<img src="./images/mi_imagen.png" alt="Mi Imagen" width="300" height="200"/>
+<img src="./images/image.png" alt="Mi Imagen" width="300" height="200"/>
 
 
 
