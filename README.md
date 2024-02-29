@@ -25,5 +25,7 @@ I am a mechanical engineer, passionate about 3D design, programming, IA and emer
 - Portuguese (A2)
 
 ## Personal information
-- :telephone:+57 319 5327739
+- :phone:+57 319 5327739
+- :email:juanja1910@gmail.com
+- :round_pushpin: Medellin, Colombia
 
